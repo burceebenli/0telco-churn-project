@@ -73,3 +73,9 @@ telco-churn-project/
 ├── 02_preprocessing_model.ipynb
 ├── requirements.txt
 └── README.md
+
+## Run Prediction Script
+
+```bash
+venv\Scripts\activate
+python predict.py
